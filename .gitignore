@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+venv/
+
+# Generated data
+data/*.csv
+
+# Trained models
+models/*.pkl
